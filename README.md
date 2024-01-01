@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**vlad1k337/vlad1k337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Hi!<br> This is Vladick, aka govnocoder. </h1>
+<h3> Why does this profile even exist? </h3>
+<p> As a beginner C/C++ dev, while studying I will publish some tiny projects. <br>
+<h4>U probably will se some stuff like: </h4>
+<ul>
+  <li> Simple command line client-server applications using sockets.</li>
+  <li> Maybe some websites on HTML/CSS/JavaScript I wrote at school </li>
+  <li> Rarely STM32 project </li>
+</ul>
+</p>
+<h3> What expierence do I have? </h3>
+<ul>
+  <li> NixOS at desktop - autistic kid starterpack! </li>
+  <li> Developing applications using NCurses, libUSB </li>
+  <li> Worked with TCP, HTTP. </li>
+</ul>
