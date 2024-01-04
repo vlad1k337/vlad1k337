@@ -10,7 +10,7 @@
 </p>
 <h3> What expierence do I have? </h3>
 <ul>
-  <li> NixOS at desktop - autistic kid starterpack! </li>
+  <li> Using linux, NixOS, Debian. </li>
   <li> Developing applications using NCurses, libUSB </li>
   <li> Worked with TCP, HTTP. </li>
 </ul>
