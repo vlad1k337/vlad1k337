@@ -1,6 +1,6 @@
 <h1> Hi!<br> This is Vladick, aka govnocoder. </h1>
 <h3> Why does this profile even exist? </h3>
-<p> As a beginner C/C++ dev, while studying I will publish some tiny projects. </p><br>
+<p> As a beginner C/C++ dev, while studying I will publish some tiny projects. </p>
 <h4>U probably will se some stuff like: </h4>
 <ul>
   <li> Simple command line client-server applications using sockets.</li>
