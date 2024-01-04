@@ -11,7 +11,7 @@
 </p>
 <h3> What expierence do I have? </h3>
 <ul>
-  <li> Using linux, NixOS, Debian. </li>
+  <li> Using Linux: NixOS, Debian. </li>
   <li> Developing applications using NCurses, libUSB </li>
   <li> Worked with TCP, HTTP. </li>
 </ul>
